@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x640f8a67c515b6e1c8aa28159377730bafffbd79b9e48094c7be1b15f2f65dcb",
+  "SCAN_LINK": "https://testnets.opensea.io/assets/mumbai/0x8cc7bf4692021880ba4fdc4fd42b94111e755c47/7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Virtunes NFT",
+  "SYMBOL": "VTNFT",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/virtunes-nft",
+  "SHOW_BACKGROUND": true
+}
